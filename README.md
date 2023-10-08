@@ -1,4 +1,4 @@
-# Bias-in-Evaluation-Processes
+# Code for "Bias in Evaluation Processes"
 
 This repository contains the code for reproducing the simulations in our paper
 
