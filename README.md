@@ -7,7 +7,7 @@ This repository contains the code for reproducing the simulations in our paper
 NeurIPS 2023
 
 <p align="center">
-  <img src="NeurIPS-logo.png" alt="NeurIPS23 Logo" width="300"/>
+  <img src="NeurIPS-logo.png"  alt="NeurIPS23 Logo" width="300"/>
 </p>
 
 ## Running Simulations
