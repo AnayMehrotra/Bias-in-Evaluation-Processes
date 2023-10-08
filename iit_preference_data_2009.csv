@@ -1,0 +1,56 @@
+index,year,college,program,duration,degree,GEN,gender category,opening rank,closing rank,capacity
+1,2009,IIT-Bombay,Computer Science and Engineering,4 Years,B.Tech,GEN,Gender-Neutral,3,86,87
+2,2009,IIT-Bombay,Electrical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,8,109,60
+3,2009,IIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,Gender-Neutral,1,154,63
+4,2009,IIT-Kanpur,Computer Science and Engineering,4 Years,B.Tech,GEN,Gender-Neutral,2,181,52
+5,2009,IIT-Madras,Computer Science and Engineering,4 Years,B.Tech,GEN,Gender-Neutral,5,215,30
+6,2009,IIT-Delhi,Electrical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,108,241,63
+7,2009,IIT-Bombay,Electrical Engineering with M.Tech. in Microelectronics,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,117,245,32
+8,2009,IIT-Delhi,Computer Science and Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,187,278,32
+9,2009,IIT-Madras,Electrical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,32,310,49
+10,2009,IIT-Delhi,Electrical Engineering with M.Tech. in Information and Communication Technology,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,284,369,26
+11,2009,IIT-Bombay,Electrical Engineering with M.Tech. in Communications and Signal Processing,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,266,379,32
+54,2009,IIT-Kanpur,Electrical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,39,416,99
+12,2009,IIT-Kanpur,Computer Science and Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,216,422,40
+13,2009,IIT-Bombay,Mechanical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,72,494,93
+14,2009,IIT-Madras,Computer Science and Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,333,502,26
+15,2009,IIT-Kharagpur,Computer Science and Engineering,4 Years,B.Tech,GEN,Gender-Neutral,276,527,55
+16,2009,IIT-Kanpur,Electrical Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,423,608,32
+17,2009,IIT-Delhi,Mechanical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,237,634,103
+18,2009,IIT-Bombay,Mechanical Engineering with M.Tech. in Computer Aided Design and Automation,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,419,637,23
+19,2009,IIT-Madras,Electrical Engineering with M. Tech. in Microelectronics and VLSI Design,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,339,716,24
+20,2009,IIT-Bombay,Mechanical Engineering with M.Tech. in Computer Integrated Manufacturing (CIM),5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,556,757,22
+21,2009,IIT-Delhi,Electrical Engineering (Power),4 Years,B.Tech,GEN,Gender-Neutral,477,758,32
+22,2009,IIT-Kharagpur,Electronics and Electronical Communication,4 Years,B.Tech,GEN,Gender-Neutral,133,762,40
+23,2009,IIT-Madras,Electrical Engineering with M.Tech. in Communication Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,458,764,24
+24,2009,IIT-Kanpur,Mechanical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,497,806,73
+25,2009,IIT-Madras,Mechanical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,275,820,75
+26,2009,IIT-Kharagpur,Computer Science and Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,431,877,40
+27,2009,IIT-Kharagpur,Electrical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,596,920,55
+28,2009,IIT-Bombay,Chemical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,244,928,73
+29,2009,IIT-Madras,Electrical Engineering with M.Tech. in Power Systems and Power Electronics,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,773,937,14
+30,2009,IIT-Roorkee,Computer Science and Engineering,4 Years,B.Tech,GEN,Gender-Neutral,471,984,48
+31,2009,IIT-Kanpur,Mechanical Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,808,992,26
+32,2009,IIT-Madras,Electrical Engineering with M.Tech in Applied Mechanics with specialization in Biomedical Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,954,1026,7
+33,2009,IIT-Kharagpur,Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,482,1091,40
+34,2009,IIT-Delhi,Chemical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,708,1100,71
+35,2009,IIT-Bombay,Engineering Physics,4 Years,B.Tech,GEN,Gender-Neutral,303,1171,30
+36,2009,IIT-Madras,Mechanical Engineering with M.Tech. in Computer Integrated Manufacturing (CIM),5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,661,1176,NA
+37,2009,IIT-Madras,"Mechanical Engineering with
+M.Tech. in Product design",5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,890,1181,
+38,2009,IIT-Kharagpur,Mechanical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,830,1191,67
+53,2009,IIT-Bombay,Aerospace Engineering,4 Years,B.Tech,GEN,Gender-Neutral,289,1256,62
+39,2009,IIT-Bombay,Energy Engineering with M.Tech. in Energy Systems Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,294,1258,30
+40,2009,IIT-Bombay,"Engineering Physics with M.Tech. in Engineering Physics with specialization in Nano
+Science",5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,607,1266,12
+41,2009,IIT-Bombay,Chemical Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,943,1308,51
+42,2009,IIT-Kharagpur,Electrical Engineering with M.Tech. in any of the listed specializations,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,1012,1330,26
+43,2009,IIT-Roorkee,Electronics and Communication Engineering,4 Years,B.Tech,GEN,Gender-Neutral,682,1354,55
+44,2009,IIT-Roorkee,Computer Science and Engineering with M.Tech. in Information Technology,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,973,1377,26
+45,2009,IIT-Bombay,Civil Engineering,4 Years,B.Tech,GEN,Gender-Neutral,665,1413,117
+46,2009,IIT-Kanpur,Chemical Engineering,5 Years,B.Tech + M.Tech,GEN,Gender-Neutral,631,1481,15
+47,2009,IIT-Kanpur,Aerospace Engineering,4 Years,B.Tech,GEN,Gender-Neutral,891,1613,38
+48,2009,IIT-Delhi,Civil Engineering,4 Years,B.Tech,GEN,Gender-Neutral,740,1678,109
+49,2009,IIT-Roorkee,Electrical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,848,1821,119
+50,2009,IIT-Roorkee,Mechanical Engineering,4 Years,B.Tech,GEN,Gender-Neutral,927,1909,79
+51,2009,IIT-Guwahati,Computer Science and Engineering,4 Years,B.Tech,GEN,Gender-Neutral,623,2027,73
